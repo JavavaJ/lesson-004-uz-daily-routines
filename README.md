@@ -24,6 +24,7 @@
 | tunda | at night |
 
 ### 🏃‍♂️ Kundalik faoliyatlar / Daily Activities
+
 | O'zbekcha | English |
 |-----------|---------|
 | uyg'onmoq | to wake up |
@@ -37,6 +38,7 @@
 | ishlash | to work |
 
 ### 📊 Vaqt zaflarining ravishi / Adverbs of Frequency
+
 | O'zbekcha | English |
 |-----------|---------|
 | har doim | always |
@@ -49,6 +51,7 @@
 | haftasiga ... marta | ... times a week |
 
 ### 👔 Kasblar / Professions
+
 | O'zbekcha | English |
 |-----------|---------|
 | tadbirkor | businessman |
@@ -60,6 +63,7 @@
 | muhandis | engineer |
 
 ### 📱 Zamonaviy faoliyatlar / Modern Activities
+
 | O'zbekcha | English |
 |-----------|---------|
 | suratga olmoq | to film/record |
@@ -199,6 +203,7 @@ Bu fe'llarni ishlatib, har bir qahramon haqida gaplar tuzing.
 | **yotmoq** | to go to sleep | Aziza turli vaqtda uyquga yotadi |
 
 ### Ish fe'llari / Work Verbs
+
 | Fe'l / Verb | Ma'nosi / Meaning | Misol / Example |
 |-------------|-------------------|-----------------|
 | **ishlash** | to work | Karim dalada ishlaydi |
@@ -208,6 +213,7 @@ Bu fe'llarni ishlatib, har bir qahramon haqida gaplar tuzing.
 | **tahrirlash** | to edit | Aziza videolarni tahrirlaydi |
 
 ### Ovqat fe'llari / Food Verbs
+
 | Fe'l / Verb | Ma'nosi / Meaning | Misol / Example |
 |-------------|-------------------|-----------------|
 | **nonushta qilmoq** | to have breakfast | Anvar sakkiz soatda nonushta qiladi |
@@ -215,6 +221,7 @@ Bu fe'llarni ishlatib, har bir qahramon haqida gaplar tuzing.
 | **tushlik qilmoq** | to have lunch | Karim o'n ikki soatda tushlik qiladi |
 
 ### Boshqa muhim fe'llar / Other Important Verbs
+
 | Fe'l / Verb | Ma'nosi / Meaning | Misol / Example |
 |-------------|-------------------|-----------------|
 | **sport bilan mashg'ul bo'lmoq** | to exercise | Anvar tez-tez sport qiladi |
