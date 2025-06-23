@@ -131,6 +131,8 @@ Anvar boy tadbirkor. U **har kuni** **olti soatda** uyg'onadi. **Olti yarim soat
 
 U **tez-tez** muhim uchrashuvlar o'tkazadi va **kuniga besh-olti marta** telefon qo'ng'iroqlari qabul qiladi. **Ba'zan** **yetti soat kechqurun** maxsus restoranlarda kechki ovqat yeydi. **Kamdan-kam** xayriya tadbirlarida ishtirok etadi. **O'n bir soatda** uyquga yotadi.
 
+<img src="./images/anvar.png" alt="Anvar" style="width: 50%; height: auto;">
+
 **Translation:** Anvar is a wealthy businessman. He wakes up every day at six o'clock. At six-thirty he exercises and often goes running. At eight o'clock he has a special breakfast. At nine o'clock he goes to his big office. He often holds important meetings and receives phone calls five-six times a day. Sometimes at seven in the evening he eats dinner at special restaurants. He rarely participates in charity events. He goes to sleep at eleven o'clock.
 
 **Verb List:**
@@ -150,6 +152,8 @@ U **tez-tez** muhim uchrashuvlar o'tkazadi va **kuniga besh-olti marta** telefon
 Karim oddiy dehqon. U **har kuni** **to'rt yarim soatda** uyg'onadi. **Besh soatda** mollarga g'amxo'rlik qiladi va **har doim** ularni boqadi. **Olti soatda** dala ishlariga boradi va **kun bo'yi** qattiq ishlaydi.
 
 **O'n ikki soatda** oddiy tushlik qiladi - non, piyoz va choy. **Olti soat kechqurun** uyga qaytadi. **Yetti soat kechqurun** oilasi bilan kechki ovqat yeydi. U **kamdan-kam** dam oladi, chunki ish ko'p. **To'qqiz soatda** uyquga yotadi va **har doim** charchagan bo'ladi.
+
+<img src="./images/karim.png" alt="Karim" style="width: 50%; height: auto;">
 
 **Translation:** Karim is a simple farmer. He wakes up every day at four-thirty. At five o'clock he takes care of the livestock and always feeds them. At six o'clock he goes to field work and works hard all day. At twelve o'clock he has a simple lunch - bread, onions and tea. At six in the evening he returns home. At seven in the evening he eats dinner with his family. He rarely rests because there is a lot of work. He goes to sleep at nine o'clock and is always tired.
 
