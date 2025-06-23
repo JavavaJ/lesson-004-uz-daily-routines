@@ -10,6 +10,7 @@
 ## 📚 YANGI SO'ZLAR / NEW VOCABULARY
 
 ### ⏰ Vaqt / Time
+
 | O'zbekcha | English |
 |-----------|---------|
 | soat | hour/clock |
