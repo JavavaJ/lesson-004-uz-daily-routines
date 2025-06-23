@@ -176,6 +176,8 @@ Dilnoza o'rta maktab o'qituvchisi. U **har kuni** **yetti soatda** uyg'onadi va 
 
 U **kuniga besh marta** turli sinflarda dars beradi va **tez-tez** o'quvchilar bilan gaplashadi. **Ikki soat tushda** uyga qaytadi va **ba'zan** **to'rt soat kechqurun** uy vazifalarini tekshiradi. **Haftasiga ikki marta** ota-onalar bilan uchrashadi. U **har doim** sabr-toqatli va mehribon. **O'n soatda** uyquga yotadi.
 
+<img src="./images/dilnoza.png" alt="Dilnoza" style="width: 50%; height: auto;">
+
 **Translation:** Dilnoza is a middle school teacher. She wakes up every day at seven o'clock and has breakfast at seven-thirty. She goes to school at eight o'clock and starts teaching at eight-thirty. She teaches five times a day in different classes and often talks with students. She returns home at two in the afternoon and sometimes checks homework at four in the evening. She meets with parents twice a week. She is always patient and kind. She goes to sleep at ten o'clock.
 
 **Verb List:**
@@ -296,7 +298,7 @@ Guruhda ishlang. Bir talaba qahramon bo'ladi, boshqalari savollar beradi.
 Quyidagi jadvalni to'ldiring va juftlikda muhokama qiling:
 
 | Savol | Aziza | Anvar | Karim | Dilnoza |
-|-------|-------|-------|-------|---------|
+|-------|-------|-------|-------|------|
 | Soat nechada uyg'onadi? | turli vaqtda | 6:00 | 4:30 | 7:00 |
 | Eng ko'p nima qiladi? | _______ | _______ | _______ | _______ |
 | Qaysi ravishni tez-tez ishlatadi? | _______ | _______ | _______ | _______ |
@@ -404,4 +406,4 @@ Maqsadli fe'llardan foydalanib, yangi qahramon yarating:
 **O'qituvchi uchun eslatma / Teacher's Note:**  
 Bu darslikda elementar darajadagi o'quvchilar uchun vaqt va kundalik tartib mavzusi chuqur o'rganiladi. Har bir mashqni talabalar bilan birga bajaring va yangi so'zlarni takrorlashni unutmang.
 
-**Muvaffaqiyat bilan o'rganing! / Learn Successfully!** 🌟 
+**Muvaffaqiyat bilan o'rganing! / Learn Successfully!** 🌟
