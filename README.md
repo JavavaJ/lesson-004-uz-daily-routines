@@ -10,64 +10,64 @@
 ## 📚 YANGI SO'ZLAR / NEW VOCABULARY
 
 ### ⏰ Vaqt / Time
-| O'zbekcha | English | Talaffuz |
-|-----------|---------|----------|
-| soat | hour/clock | so-AT |
-| daqiqa | minute | da-QI-qa |
-| vaqt | time | vaqt |
-| erta | early | er-TA |
-| kech | late | kech |
-| ertalab | morning | er-ta-LAB |
-| tushda | at noon | tush-DA |
-| kechqurun | evening | kech-qu-RUN |
-| tunda | at night | tun-DA |
+| O'zbekcha | English |
+|-----------|---------|
+| soat | hour/clock |
+| daqiqa | minute |
+| vaqt | time |
+| erta | early |
+| kech | late |
+| ertalab | morning |
+| tushda | at noon |
+| kechqurun | evening |
+| tunda | at night |
 
 ### 🏃‍♂️ Kundalik faoliyatlar / Daily Activities
-| O'zbekcha | English | Talaffuz |
-|-----------|---------|----------|
-| uyg'onmoq | to wake up | uyg'-on-MOQ |
-| turmoq | to get up | tur-MOQ |
-| uyquga yotmoq | to go to sleep | uy-qu-ga yot-MOQ |
-| ishga bormoq | to go to work | ish-ga bor-MOQ |
-| ovqat yemoq | to eat | ov-qat ye-MOQ |
-| nonushta qilmoq | to have breakfast | no-nush-ta qil-MOQ |
-| dam olmoq | to rest | dam ol-MOQ |
-| o'qimoq | to study/read | o'-qi-MOQ |
-| ishlash | to work | ish-LASH |
+| O'zbekcha | English |
+|-----------|---------|
+| uyg'onmoq | to wake up |
+| turmoq | to get up |
+| uyquga yotmoq | to go to sleep |
+| ishga bormoq | to go to work |
+| ovqat yemoq | to eat |
+| nonushta qilmoq | to have breakfast |
+| dam olmoq | to rest |
+| o'qimoq | to study/read |
+| ishlash | to work |
 
 ### 📊 Vaqt zaflarining ravishi / Adverbs of Frequency
-| O'zbekcha | English | Talaffuz |
-|-----------|---------|----------|
-| har doim | always | har do-IM |
-| tez-tez | often | tez-tez |
-| ba'zan | sometimes | ba'-ZAN |
-| kamdan-kam | rarely/seldom | kam-dan-kam |
-| hech qachon | never | hech qa-CHON |
-| har kuni | every day | har ku-NI |
-| kuniga ... marta | ... times a day | ku-ni-ga ... mar-TA |
-| haftasiga ... marta | ... times a week | haf-ta-si-ga ... mar-TA |
+| O'zbekcha | English |
+|-----------|---------|
+| har doim | always |
+| tez-tez | often |
+| ba'zan | sometimes |
+| kamdan-kam | rarely/seldom |
+| hech qachon | never |
+| har kuni | every day |
+| kuniga ... marta | ... times a day |
+| haftasiga ... marta | ... times a week |
 
 ### 👔 Kasblar / Professions
-| O'zbekcha | English | Talaffuz |
-|-----------|---------|----------|
-| tadbirkor | businessman | tad-bir-KOR |
-| dehqon | farmer | deh-QON |
-| o'qituvchi | teacher | o'-qi-tuv-CHI |
-| bloger | blogger/vlogger | blo-GER |
-| sayohatchi | traveler | sa-yo-hat-CHI |
-| shifokor | doctor | shi-fo-KOR |
-| muhandis | engineer | mu-han-DIS |
+| O'zbekcha | English |
+|-----------|---------|
+| tadbirkor | businessman |
+| dehqon | farmer |
+| o'qituvchi | teacher |
+| bloger | blogger/vlogger |
+| sayohatchi | traveler |
+| shifokor | doctor |
+| muhandis | engineer |
 
 ### 📱 Zamonaviy faoliyatlar / Modern Activities
-| O'zbekcha | English | Talaffuz |
-|-----------|---------|----------|
-| suratga olmoq | to film/record | su-rat-ga ol-MOQ |
-| tahrirlash | to edit | tah-rir-LASH |
-| joylashtirmoq | to post/upload | joy-lash-tir-MOQ |
-| sayohat qilmoq | to travel | sa-yo-hat qil-MOQ |
-| kashf etmoq | to explore/discover | kashf et-MOQ |
-| tarqatmoq | to share/distribute | tar-qat-MOQ |
-| kuzatmoq | to follow/watch | ku-zat-MOQ |
+| O'zbekcha | English |
+|-----------|---------|
+| suratga olmoq | to film/record |
+| tahrirlash | to edit |
+| joylashtirmoq | to post/upload |
+| sayohat qilmoq | to travel |
+| kashf etmoq | to explore/discover |
+| tarqatmoq | to share/distribute |
+| kuzatmoq | to follow/watch |
 
 ---
 
@@ -104,6 +104,8 @@
 Aziza yosh YouTube bloger va sayohatchi. U turli vaqtlarda uyg'onadi, chunki **tez-tez** sayohat qiladi. **Har kuni** **to'qqiz soatdan** video suratga olishni boshlaydi. **Ba'zan** **o'n bir soatda**, **ba'zan** **uch soat tushda** turli joylarni kashf etadi.
 
 U **kuniga uch-to'rt marta** yanggi kontentlarni Instagram va YouTube'ga joylashtiradi. **Kechqurun** **yetti soatdan** videolarni tahrirlaydi va **tez-tez** **tun yarimigacha** ishlaydi. **Oyiga ikki marta** yangi shaharlarga sayohat qiladi. **Kamdan-kam** muxlislari bilan uchrashadi. U **har doim** kreativ va energik. **Har kuni** turli vaqtda uyquga yotadi.
+
+<img src="./images/aziza.png" alt="Aziza" style="width: 50%; height: auto;">
 
 **Translation:** Aziza is a young YouTube blogger and traveler. She wakes up at different times because she travels often. Every day she starts filming videos at nine o'clock. Sometimes at eleven o'clock, sometimes at three in the afternoon she explores different places. She posts new content on Instagram and YouTube three-four times a day. In the evening from seven o'clock she edits videos and often works until midnight. She travels to new cities twice a month. She rarely meets with fans. She is always creative and energetic. She goes to sleep at different times every day.
 
